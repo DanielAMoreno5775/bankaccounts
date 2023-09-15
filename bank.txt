@@ -1,0 +1,15 @@
+Savings 1 1000.01 1000.00 4.0
+Checking 2 2000.02 2500.00 6.95
+Savings 3 3000.03 2000 7.0
+Deposit 1 11.11
+Deposit 2 22.22
+Withdraw 4 5000.00
+Checking 4 4000.04 2000.00 11.99
+Withdraw 1 0.10
+Balance 2
+Withdraw 2 0.20
+Deposit 3 33.33
+Withdraw 4 0.40
+Bad Command 65
+Close
+Report
